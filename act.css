@@ -1,0 +1,15 @@
+.buttons>button {
+    cursor: pointer;
+}
+
+.buttons>button:hover {
+    background-color: rgb(177, 153, 187);
+}
+
+.burg:hover {
+    cursor: pointer;
+    .webs {
+        display: block;
+        position: absolute;
+    }
+}
