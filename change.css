@@ -99,13 +99,13 @@
 
 @media(max-width: 200px) {
     .input1 {
-        font-size: 12px;
+        font-size: 18px;
     }
     .buttons>button {
-        font-size: 12px;
+        font-size: 18px;
     }
     .ul>li {
-        font-size: 12px;
+        font-size: 18px;
     }
     .burg {
         display: block;
