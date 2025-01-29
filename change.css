@@ -100,6 +100,7 @@
 @media(max-width: 200px) {
     .input1 {
         font-size: 18px;
+        height: 40px;
     }
     .buttons>button {
         font-size: 18px;
