@@ -97,7 +97,7 @@
     }
 }
 
-@media(max-width: 100px) {
+@media(max-width: 30px) {
     .input1 {
         font-size: 18px;
         height: 40px;
